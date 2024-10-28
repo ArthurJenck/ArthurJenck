@@ -65,3 +65,8 @@
 <img src="https://raw.githubusercontent.com/ArthurJenck/ArthurJenck/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+<div align="center">
+<img src="https://i.ibb.co/grKRmmn/Logo-Jaune-PNG.png" width="75" align="center">
+</div>
