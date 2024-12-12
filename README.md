@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQHZny4Knc1r8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721761062418?e=1736985600&v=beta&t=f-s7T7PivQq8kG4sNKLfoYZz-16OF9qOPuEihvrunY8"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQG0ykYEHl97DA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733933181344?e=1739404800&v=beta&t=RSsPy_v_Yf5n0tYJF4eKaO7Fuc-wORqGrmSxeFYBWKs"  />
 </div>
 
 ###
@@ -47,6 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -68,5 +70,5 @@
 
 
 <div align="center">
-<img src="https://i.ibb.co/grKRmmn/Logo-Jaune-PNG.png" width="75" align="center">
+<img src="https://i.ibb.co/R4tzqky/logo.png" width="75" align="center">
 </div>
