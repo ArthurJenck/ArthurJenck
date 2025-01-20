@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQG0ykYEHl97DA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733933181344?e=1739404800&v=beta&t=RSsPy_v_Yf5n0tYJF4eKaO7Fuc-wORqGrmSxeFYBWKs"  />
+  <img height="200" src="https://i.ibb.co/phWWps6/Banner.jpg"  />
 </div>
 
 ###
