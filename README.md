@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🖖 Hey ! Comment ça va ?<br><br>🌐 Fou amoureux du développement web, j'y pense le jour et j'en rêve la nuit.<br>✔️ HTML5 / CSS<br>✔️ Sass / Scss<br>✔️ JavaScript / TypeScript<br>✔️ React<br><br>💡 De par mes différentes veilles, je suis au fait des bonnes pratiques de divers domaines du digital.<br>✔️ Design UX-UI<br>✔️ Accessibilité et normes WCAG / RGAA<br>✔️ Référencement local et général, SEO & SEA<br><br>
+<p align="left">🖖 Hey ! Comment ça va ?<br><br>🌐 Fou amoureux du développement web, j'y pense le jour et j'en rêve la nuit.<br>✔️ Three.js / React Three Fiber<br>✔️ React / NextJS<br>✔️ WebGL / GLSL (Shaders)<br>✔️ GSAP / Framer Motion<br>✔️ TypeScript / JavaScript<br>✔️ TailwindCSS / Sass / SCSS<br>✔️ Rapier.js<br><br>💡 De par mes différentes veilles, je suis au fait des bonnes pratiques de divers domaines du digital.<br>✔️ Design UX-UI<br>✔️ Clean Code (DRY, KISS, YAGNI) et principes SOLID<br>✔️ Design invisible et théorie de l'interactivité<br>✔️ Accessibilité et normes WCAG / RGAA<br>✔️ Référencement local et général, SEO & SEA<br><br>
   📬 Me contacter :<br>
   📓 Portfolio : <a href="https://www.arthurjenck.com" target="_blank">arthurjenck.com</a><br>
   ✉️ Mail : <a href="mailto:contact@arthurjenck.com" target="_blank">contact@arthurjenck.com</a><br>
